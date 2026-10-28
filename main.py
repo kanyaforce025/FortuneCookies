@@ -1,1 +1,2 @@
-#digital colck
+#digital clock
+import Qt inter as tk
